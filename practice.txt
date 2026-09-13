@@ -9,3 +9,4 @@ Round 2: pull test line
 Round 1: This line was pushed by a teammate
 Round 3 part A: teammate change
 Round 3 part B: teammate change
+Test: Fetch and pull
